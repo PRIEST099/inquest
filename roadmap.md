@@ -1,8 +1,8 @@
-# CodeQuest Project
+# InQuest Project
 
 ## Project Overview
 
-**CodeQuest** is an AI-powered debugging assistant designed to help developers quickly identify issues in their code and receive actionable fixes with detailed explanations. The project aims to streamline the debugging process, allowing developers to focus on building instead of spending time figuring out error messages.
+**InQuest** is an AI-powered debugging assistant designed to help developers quickly identify issues in their code and receive actionable fixes with detailed explanations. The project aims to streamline the debugging process, allowing developers to focus on building instead of spending time figuring out error messages.
 
 **Objective:**
 - Build an API that can analyze code for issues.
